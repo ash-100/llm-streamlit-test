@@ -1,5 +1,5 @@
 streamlit
-torch
+torch+cpu
 transformers==4.31.0
 peft==0.4.0
 bitsandbytes==0.40.2
